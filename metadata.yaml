@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '28325'
     url: http://www.gutenberg.org/2009/agents/28325
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24990#Thirteen-Chapters-of-American-HistoryHistorical-Marine-Paintings
 gutenberg_issued: '2008-04-04'
 gutenberg_type: Text
 identifiers:
