@@ -1,0 +1,29 @@
+_repo: Thirteen-Chapters-of-American-HistoryHistorical-Marine-Paintings_24990
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24990-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sutro, Theodore
+    birthdate: 1845
+    deathdate: 1927
+    gutenberg_agent_id: '28325'
+    url: http://www.gutenberg.org/2009/agents/28325
+description: ''
+gutenberg_issued: '2008-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24990'
+  lccn: 05017955
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History'
+- !lcsh 'Moran, Edward, 1829-1901'
+- !lcc 'E151'
+title: "Thirteen Chapters of American History\r\nrepresented by the Edward Moran series\
+  \ of Thirteen Historical Marine Paintings"
+url: http://www.gutenberg.org/ebooks/24990
